@@ -1,0 +1,465 @@
+Neighborhood,Venue,Venue_Category,Venue ID,Price Category,Ratings,Total Reviews,Likes
+Marble Hill,Land & Sea Restaurant,Seafood Restaurant,4b9c9c6af964a520b27236e3,Moderate,7.5,70,42
+Marble Hill,Boston Market,American Restaurant,585c205665e7c70a2f1055ea,Moderate,7.1,5,4
+Chinatown,Spicy Village,Chinese Restaurant,4db3374590a0843f295fb69b,Cheap,8.2,690,500
+Chinatown,Wah Fung Number 1 Fast Food 華豐快飯店,Chinese Restaurant,4a96bf8ff964a520ce2620e3,Cheap,8.2,281,192
+Chinatown,Xi'an Famous Foods,Chinese Restaurant,5894c9a15e56b417cf79e553,Cheap,8.5,138,104
+Chinatown,Dimes,American Restaurant,522dfe8b7e4826517408a264,Moderate,8.3,872,646
+Chinatown,Wayla,Thai Restaurant,5cc4e9d0c876c8002c3010cb,Moderate,9.2,147,126
+Chinatown,l'estudio,American Restaurant,587996ef0923920c21ea4603,Moderate,8.8,75,64
+Chinatown,The Commissary,American Restaurant,572bcbaa498e16431ad34a61,Moderate,8.3,61,46
+Chinatown,Hwa Yuan,Chinese Restaurant,59d828f0916bc1155fde2c04,Cheap,7.9,98,68
+Chinatown,House Special 甘來飯店,Chinese Restaurant,59ad625a2619ee5cdded881f,Cheap,8.2,36,22
+Chinatown,Bacaro,Italian Restaurant,472a027af964a520ea4b1fe3,Moderate,7.8,282,193
+Chinatown,JaJaJa Plantas Mexicana,Mexican Restaurant,58f55261419a9e48f4dd0706,Cheap,8.5,238,173
+Chinatown,Factory Tamal,Mexican Restaurant,5885471a0037eb3b6c2973d2,Cheap,8.1,47,29
+Chinatown,Great N.Y. Noodletown,Chinese Restaurant,3fd66200f964a520b1ea1ee3,Cheap,7.6,909,547
+Chinatown,Sun's Organic Tea Shop,Chinese Restaurant,4c7ab2ac2d3ba143bb1d92d0,Cheap,8.1,50,32
+Washington Heights,Saggio Restaurant,Italian Restaurant,4d21107c6e8c37042b58ff9f,Moderate,8.5,193,119
+Washington Heights,The Pandering Pig,American Restaurant,56e213e1498e8b403c8bb16a,Moderate,8.5,17,11
+Washington Heights,Yang Garden,Chinese Restaurant,4b292f38f964a520939a24e3,Moderate,7.7,9,6
+Washington Heights,Golden Star,Chinese Restaurant,4b8d55aef964a52050f532e3,Moderate,7,15,7
+Washington Heights,Marisco Centro (Seafood Restaurant & Fish Market),Seafood Restaurant,4bdcc53e03be20a1c7b2849b,Expensive,7.5,34,20
+Washington Heights,Refried Beans Mexican Restaurant,Mexican Restaurant,4b2c33d0f964a520aac324e3,Moderate,7.2,114,62
+Washington Heights,No. 1 Chinese Restaurant,Chinese Restaurant,4b3fe94af964a520e2b125e3,Cheap,6.7,11,3
+Washington Heights,Sushi Yu II,Sushi Restaurant,4a4a642cf964a520bdab1fe3,Moderate,6.7,75,37
+Washington Heights,Tung Thong,Thai Restaurant,5809511c38fafba1ec352126,Moderate,6.6,11,6
+Washington Heights,Mi Ranchito,Mexican Restaurant,4ee2bbe8775b86c4028dec5d,Cheap,6.3,9,6
+Inwood,Guadalupe Bar and Grill,Mexican Restaurant,4b0885d1f964a520a20d23e3,Moderate,8.5,153,103
+Inwood,The Tubby Hook,American Restaurant,5814dc8ed67ca5038583da78,Moderate,7.9,34,24
+Inwood,Guacamole,Mexican Restaurant,5830ff3044587f7beb2271cc,Cheap,8,16,13
+Inwood,Made in Mexico,Mexican Restaurant,53e58cd0498e01b8fae39b41,Cheap,7.6,50,38
+Inwood,"""U"" Like",Chinese Restaurant,4bd5f4d229eb9c74c64594e1,Cheap,7.1,18,11
+Inwood,Lotus Express,Chinese Restaurant,4b9aeeedf964a52086e435e3,Cheap,7.4,9,7
+Inwood,Pick & Eat,American Restaurant,55bd166d498ea08336045553,Moderate,6.9,13,6
+Inwood,El Tina Seafood Restaurant,Seafood Restaurant,4bb93e047421a5933fa7c240,Moderate,7.3,22,15
+Inwood,Azteca,Mexican Restaurant,4d824d2dbede548186840fd1,Cheap,6.9,1,1
+Hamilton Heights,Fumo,Italian Restaurant,56d8e01d498ef1500ae7fbfe,Expensive,9,131,102
+Hamilton Heights,Oso,Mexican Restaurant,57274808498e7db363dcc4bc,Cheap,8.3,83,59
+Hamilton Heights,Frijolito's,Mexican Restaurant,575a15f6498e0db46deded82,Cheap,7.9,20,14
+Hamilton Heights,Geisha Japanese Cuisine,Japanese Restaurant,531a0207498e06b4656eb8c5,Moderate,7.7,53,35
+Hamilton Heights,Trufa,Mediterranean Restaurant,4da8ee246e81162ae7b15710,Moderate,7.9,117,71
+Hamilton Heights,Chopped Parsley,Sushi Restaurant,5674592d498e85f07427e61b,Moderate,7.7,17,10
+Hamilton Heights,Agave Mexican & American Grill,Mexican Restaurant,534aace3498e249ceb4111dc,Cheap,7.7,23,14
+Hamilton Heights,Famous Fish Market,Seafood Restaurant,4ae34b92f964a520f99221e3,Moderate,7.9,127,77
+Hamilton Heights,MamaSushi,Sushi Restaurant,577875a2498e0a21a3ef1a97,Moderate,7.5,30,20
+Hamilton Heights,King's Wok,Chinese Restaurant,4cd76fd7dfb4a1cd7195645c,Cheap,7.4,9,5
+Hamilton Heights,Golden Wok,Chinese Restaurant,4c0b25636071a59342ece032,Cheap,6.9,9,6
+Manhattanville,Pisticci Ristorante,Italian Restaurant,457f1183f964a5204b3f1fe3,Moderate,8.8,573,403
+Manhattanville,El Porton,Mexican Restaurant,4acfe332f964a520afd620e3,Moderate,8.1,70,40
+Manhattanville,El Puerto Seafood and Fish Market,Seafood Restaurant,4b92dc43f964a5204c2234e3,Moderate,8.1,82,58
+Manhattanville,Bettolona,Italian Restaurant,4c956003f7cfa1cd2e2ebd15,Moderate,8.1,146,91
+Manhattanville,Toast 125,American Restaurant,3fd66200f964a52067e81ee3,Moderate,7.5,184,105
+Manhattanville,Sushi Sushi,Sushi Restaurant,51573e61e4b06ee00f00307b,Cheap,8.1,61,32
+Manhattanville,Chinelos,Mexican Restaurant,4bd4e5076798ef3b92a6628d,Cheap,8.3,10,6
+Manhattanville,Loui Loui Louisiana Seafood,Seafood Restaurant,59640515c9a51721665f8839,Expensive,7.3,15,10
+Manhattanville,Seafood Restaurant,Seafood Restaurant,4fa97e00e4b08cc7d9d73ce6,Expensive,7.3,21,17
+Manhattanville,China Place,Chinese Restaurant,4b21974df964a520833e24e3,Expensive,6.7,9,4
+Central Harlem,Belle Harlem,American Restaurant,57f9286fcd10f93045e82291,Moderate,8.6,20,18
+Central Harlem,Yatenga,French Restaurant,4b80389ff964a520e95d30e3,Moderate,8.6,167,105
+Central Harlem,Renaissance Harlem,French Restaurant,59cc6158c0af57432b9fd02b,Expensive,8.2,16,12
+Central Harlem,Crispy Bamboo Village,Chinese Restaurant,4bf348fce5eba593c8711e90,Cheap,7.8,12,10
+Central Harlem,The Edge Harlem,American Restaurant,541c683e498ef421d4e16eb3,Moderate,9.1,261,193
+Central Harlem,88 Chinese Restaurant,Chinese Restaurant,4bd1f6909854d13a38a2fa4d,Cheap,7.8,13,9
+Central Harlem,LightHouse Fish Market & Restaurant,Seafood Restaurant,53b86577498e69be2ef130c7,Expensive,8.2,51,37
+Central Harlem,House Of Seafood,Seafood Restaurant,4e4cd087bd413c4cc66c6000,Expensive,7.8,13,10
+East Harlem,Malii,Thai Restaurant,55a85a66498e68da40bc7212,Moderate,8.6,28,20
+East Harlem,Bangklyn East Harlem,Thai Restaurant,5a68fb506336be407ef635ab,Moderate,8,9,6
+East Harlem,Cascolate Latin Bistro,Mexican Restaurant,5221402b11d2f5e7ec7c37e8,Moderate,8.3,55,31
+East Harlem,Lupita's Restaurant,Mexican Restaurant,53892262498ef00115e1cb9d,Cheap,8,26,18
+East Harlem,Mountain Bird,French Restaurant,553c1b00498e7eb81316bf1b,Expensive,9.3,100,80
+East Harlem,Cafe Ollin,Mexican Restaurant,4b4b5e8cf964a520039926e3,Cheap,8.4,132,89
+East Harlem,El Aguila,Mexican Restaurant,4ed825e98231efe38cad7306,Cheap,8,116,73
+East Harlem,Absolute Thai Restaurant,Thai Restaurant,5303fc3c11d250deaaf46b56,Moderate,8.1,11,7
+East Harlem,Lupita's Restaurant,Mexican Restaurant,5113f1e2e4b095b57d329466,Cheap,6.9,17,8
+Upper East Side,Sant Ambroeus,Italian Restaurant,4a22d7f9f964a520977d1fe3,Very Expensive,8.7,433,317
+Upper East Side,Eli's Table,American Restaurant,548485f6498eee3c9eaa5dbf,Moderate,8.7,41,29
+Upper East Side,Café Boulud,French Restaurant,3fd66200f964a5207fe91ee3,Very Expensive,8.6,369,260
+Upper East Side,Flex Mussels,Seafood Restaurant,4a593996f964a5200ab91fe3,Expensive,9.1,673,519
+Upper East Side,Toloache 82,Mexican Restaurant,4e972a527bebee95ad73a290,Expensive,8.7,350,234
+Upper East Side,Sushi Noz,Sushi Restaurant,5a8c6e6fb6b04b2d4e648ccb,Moderate,8.2,30,21
+Upper East Side,The Simone,French Restaurant,533b5715498ee1e90e846e1d,Expensive,8.4,23,13
+Upper East Side,Antonucci,Italian Restaurant,4b3bedfaf964a5209e7e25e3,Expensive,8.2,60,42
+Upper East Side,Parma Restaurant,Italian Restaurant,4ab972d6f964a520697f20e3,Moderate,8,31,15
+Upper East Side,Tiramisu,Italian Restaurant,49fcd632f964a520e36e1fe3,Moderate,8,71,36
+Upper East Side,Amber,Sushi Restaurant,4aa29d9cf964a520f94120e3,Moderate,8,108,63
+Upper East Side,Flora Bar,Mediterranean Restaurant,57fff845d67c8ac5e8f772cb,Moderate,8.4,133,94
+Upper East Side,Pig Heaven,Chinese Restaurant,5465906e498e0cb221c063e1,Cheap,7.8,80,52
+Upper East Side,Caffe Buon Gusto - Manhattan,Italian Restaurant,4a6133a6f964a52015c21fe3,Moderate,8.9,154,107
+Upper East Side,Mexicue,Mexican Restaurant,5bd27258a0215b002cf27c4f,Moderate,7.7,17,14
+Upper East Side,Luke's Bar & Grill,American Restaurant,3fd66200f964a5204dea1ee3,Moderate,7.4,113,56
+Upper East Side,Thai @ Lex,Thai Restaurant,4fdfd421e4b0709249b13d50,Moderate,7.6,60,36
+Upper East Side,Tevere,Italian Restaurant,4beb3df1b3352d7f084456d2,Very Expensive,7.8,21,16
+Upper East Side,Mezzaluna Restaurants,Italian Restaurant,4a78f65ef964a520b7e61fe3,Expensive,7.5,89,57
+Yorkville,Nica Trattoria,Italian Restaurant,4b623700f964a520a83c2ae3,Expensive,8.4,48,29
+Yorkville,PuTawn Local Thai Kitchen,Thai Restaurant,57f81d9e498e82d3766ccce8,Moderate,8.9,35,26
+Yorkville,Poke Restaurant,Sushi Restaurant,4a0d5a23f964a52077751fe3,Expensive,8.2,221,145
+Yorkville,Felice 83,Italian Restaurant,4e4078922271a89dd083d07e,Expensive,8.5,212,153
+Yorkville,Maz Mezcal,Mexican Restaurant,49f33ef2f964a520766a1fe3,Moderate,8.3,184,118
+Yorkville,Charley Mom,Chinese Restaurant,4b53bfb3f964a5202daa27e3,Moderate,7.5,21,11
+Yorkville,83 1/2,Italian Restaurant,504bb0fae4b0d1cf33ca07d0,Moderate,8,65,43
+Yorkville,Inase Sushi,Japanese Restaurant,4bc11982b492d13ad88fa560,Very Expensive,8,26,17
+Yorkville,Italianissimo Ristorante,Italian Restaurant,4b651459f964a52030e32ae3,Moderate,8.4,48,31
+Yorkville,Elio's,Italian Restaurant,4b981d9af964a520802d35e3,Expensive,9.1,166,120
+Yorkville,Conmigo,Mexican Restaurant,59125f8189e4907f68b07815,Cheap,7.5,62,37
+Yorkville,Sushi Suki,Sushi Restaurant,4a9b12eef964a5204e3420e3,Moderate,7.3,41,18
+Yorkville,Ichiro,Japanese Restaurant,4b3fdfc8f964a5200ab125e3,Moderate,8.4,170,104
+Yorkville,Cafe D'Alsace,French Restaurant,467ffefcf964a52019481fe3,Moderate,8.8,728,521
+Yorkville,Noodle Fun,Chinese Restaurant,536e6f06498eaee664b4938e,Cheap,8,15,9
+Yorkville,Sabor a Mexico,Mexican Restaurant,4c1fbbd9b4e62d7f2c19e093,Moderate,7.8,55,29
+Yorkville,Donguri Restaurant,Japanese Restaurant,4bd0fe22a8b3a593a123655f,Expensive,8,69,40
+Yorkville,Yuko,Sushi Restaurant,49c5558cf964a520f6561fe3,Moderate,7.6,12,4
+Yorkville,Yummy Sushi,Sushi Restaurant,4bce0d1129d4b71315dca7dc,Moderate,7.6,15,9
+Yorkville,Pinocchio Ristorante,Italian Restaurant,4bd223c941b9ef3b4770fde5,Expensive,7.5,34,18
+Yorkville,Arturo's,Italian Restaurant,4a84af7ff964a52055fd1fe3,Expensive,6.6,46,20
+Lenox Hill,Up Thai,Thai Restaurant,52be229211d2aabfe6f24d20,Moderate,9.1,818,616
+Lenox Hill,Jean Claude II,French Restaurant,4f5977dee4b0e4b75e4295d6,Moderate,7.9,27,15
+Lenox Hill,THEP Thai Restaurant,Thai Restaurant,5997796d603d2a7019b8c58e,Moderate,9,109,82
+Lenox Hill,Shanghai,Chinese Restaurant,4ea5be4af5b9efc002cccdea,Cheap,7.8,22,13
+Lenox Hill,Kome Waza UES,Japanese Restaurant,5aa1d85d5f68b931b6f5acda,Moderate,8.3,20,17
+Lenox Hill,Bigoi Venezia,Italian Restaurant,596e2cd68496ca6c4dcde792,Moderate,7.8,26,18
+Lenox Hill,Chipotle Mexican Grill,Mexican Restaurant,51fdb573498ea9380b61aa55,Cheap,8,82,63
+Lenox Hill,Sushi Ishikawa,Sushi Restaurant,593747b672475054e94bd3d4,Moderate,8.8,52,41
+Lenox Hill,Campagnola Restaurant,Italian Restaurant,4b775e32f964a520a6952ee3,Very Expensive,7.9,56,32
+Lenox Hill,Zawa,Sushi Restaurant,59a0a55725fb7b0552213ca6,Moderate,8.9,26,21
+Lenox Hill,Oita Sushi,Sushi Restaurant,548f7d37498e7976a22eada4,Moderate,7.4,32,19
+Lenox Hill,Delizia 73 Ristorante & Pizza,Italian Restaurant,4b495fb4f964a520a36e26e3,Cheap,7.7,111,69
+Lenox Hill,The Meatball Shop,Italian Restaurant,51c9e3f9498e2cb9c31d19ff,Moderate,8.6,904,656
+Lenox Hill,Tanoshi Sushi,Sushi Restaurant,501adf11e4b0d225f8788a03,Very Expensive,8.9,438,320
+Lenox Hill,Bella Blu,Italian Restaurant,3fd66200f964a52075e91ee3,Very Expensive,8,93,62
+Roosevelt Island,Fuji East,Japanese Restaurant,4a6e0664f964a520acd31fe3,Moderate,6.8,58,24
+Upper West Side,Maison Pickle,American Restaurant,585351e6158b966de04f29ed,Moderate,9,379,286
+Upper West Side,Han Dynasty,Chinese Restaurant,5529bfd8498ec6ce692d8015,Moderate,8.6,415,322
+Upper West Side,Celeste,Italian Restaurant,42489a80f964a5208a201fe3,Moderate,8.6,368,240
+Upper West Side,Mokum,Mediterranean Restaurant,5bfde462396de00039fbaf5d,Moderate,8.7,22,21
+Upper West Side,The Mermaid Inn,Seafood Restaurant,4a9f1cedf964a520903c20e3,Expensive,8.8,802,594
+Upper West Side,Pizzeria Sirenetta,Italian Restaurant,56afed04498e39e35747adf2,Moderate,8.6,203,154
+Upper West Side,Fred's Restaurant,American Restaurant,44281118f964a520ba311fe3,Moderate,8,579,369
+Upper West Side,Luke's Lobster,Seafood Restaurant,4d06fb7d2f96f04d25af2a54,Moderate,8.8,436,323
+Upper West Side,Chipotle Mexican Grill,Mexican Restaurant,5251e78411d250f3e0b5c03e,Moderate,7.3,138,96
+Upper West Side,Matsu,Sushi Restaurant,4b3ce40ef964a5200b8925e3,Moderate,8.3,62,36
+Upper West Side,Carmine's Italian Restaurant,Italian Restaurant,4a7778a1f964a5209be41fe3,Moderate,8.4,575,389
+Upper West Side,Senn Thai Comfort Food,Thai Restaurant,54600d4a498e6bb7ceb3567d,Moderate,7.6,94,59
+Upper West Side,Lokal 83,Mediterranean Restaurant,58670833761b1a35b53866c8,Moderate,8.3,73,55
+Upper West Side,Momoya,Sushi Restaurant,4ab43e9ef964a5208a7020e3,Expensive,7.8,185,115
+Upper West Side,Cilantro,Mexican Restaurant,4aca9069f964a5205dc220e3,Moderate,7.4,203,113
+Lincoln Square,The Smith,American Restaurant,5078c4f1e4b0dad821e1f6bd,Expensive,8.3,2127,1550
+Lincoln Square,Dig Inn,American Restaurant,5b3ba9d360255e002c56332a,Moderate,8.1,39,30
+Lincoln Square,Boulud Sud,Mediterranean Restaurant,4da8daa5a86e771ea6fdad17,Expensive,8.3,557,399
+Lincoln Square,Nanoosh,Mediterranean Restaurant,4a2ff171f964a520f6981fe3,Moderate,8,319,201
+Lincoln Square,Bar Boulud,French Restaurant,478cd1f3f964a520444d1fe3,Expensive,7.8,616,381
+Lincoln Square,Rosa Mexicano,Mexican Restaurant,3fd66200f964a52034e81ee3,Expensive,7.7,913,625
+Lincoln Square,Atlantic Grill,Seafood Restaurant,4c76c2e7947ca1cdb13f4537,Expensive,7.9,297,205
+Lincoln Square,Cafe Luxembourg,French Restaurant,414ccc00f964a520d21c1fe3,Expensive,8.5,417,299
+Lincoln Square,Noi Due Carne,Italian Restaurant,5971432facc5f5412834b3f7,Moderate,7.8,8,6
+Lincoln Square,Cafe Fiorello,Italian Restaurant,459395b7f964a52047401fe3,Expensive,7.4,429,249
+Lincoln Square,Noi Due,Italian Restaurant,4b69b408f964a520c5ae2be3,Moderate,7.6,66,39
+Lincoln Square,La Boite en Bois,French Restaurant,4aa6fe1ff964a520b94b20e3,Expensive,7.4,55,28
+Lincoln Square,Il Violino Restaurant,Italian Restaurant,4a85f5dbf964a520d2ff1fe3,Moderate,7.3,97,51
+Lincoln Square,Joanne Trattoria,Italian Restaurant,4ee6366b77c8e89319c7e4b8,Moderate,7.2,211,130
+Lincoln Square,Old John's Luncheonette,American Restaurant,4b2ef4dbf964a520b5e824e3,Moderate,6.6,96,49
+Lincoln Square,Wok City,Chinese Restaurant,4aed1141f964a52001cd21e3,Cheap,5.9,25,8
+Clinton,Mémé Mediterranean,Mediterranean Restaurant,56aff9ef498e60c01f7b2a21,Moderate,8.6,179,142
+Clinton,Sea Breeze Fish Market,Seafood Restaurant,4b7f1fa4f964a520391830e3,Moderate,8.5,35,23
+Clinton,La Vela Dining & Bar,Italian Restaurant,5633bec0498e430fc8ba8f3c,Moderate,8.2,32,23
+Clinton,Chef's Table At Brooklyn Fare,American Restaurant,5854cfc203cf255eb3b9c8cb,Very Expensive,8.5,81,64
+Clinton,Legacy Records,American Restaurant,59f3554f002f4c0655d65bab,Moderate,7.8,151,105
+Clinton,Tavola,Italian Restaurant,505b7061e4b0571999fb3da8,Moderate,8.2,367,258
+Clinton,Friedman's,American Restaurant,54ddf9a1498e766ab85781f4,Moderate,8.5,443,328
+Clinton,Aiyara Thai,Thai Restaurant,5cd74b086bdee6002c046407,Moderate,8.3,8,4
+Clinton,dell’anima,Italian Restaurant,5c6377a0c824ae002c25c915,Moderate,7.7,25,17
+Clinton,@Nine,Thai Restaurant,520ac95e498eb016437a172c,Moderate,7.4,81,47
+Clinton,Hakkasan,Chinese Restaurant,4ea832fe8b8154b19ffa31ad,Expensive,8.2,729,520
+Midtown,CAVA,Mediterranean Restaurant,5b9fe1ef93bd63002c3bbb7b,Moderate,8.7,49,42
+Midtown,Gabriel Kreuther,French Restaurant,5552087d498eb30c149f785a,Very Expensive,8.6,202,148
+Midtown,Xi’an Famous Foods,Chinese Restaurant,5e024619523cd2000769f67a,Cheap,8,6,5
+Midtown,Café Zaiya,Japanese Restaurant,48c50c4bf964a520dc511fe3,Cheap,8.1,569,383
+Midtown,Tony's Di Napoli,Italian Restaurant,4adce863f964a5206c6221e3,Moderate,8.5,804,539
+Midtown,Omar's Mediterranean Cuisine,Mediterranean Restaurant,5890c970cc5b6a43d6bf01a0,Moderate,8.7,76,62
+Midtown,Sushi By Bou,Sushi Restaurant,595ebd0aee712007dc5ae215,Moderate,9.2,110,83
+Midtown,OOTOYA 大戸屋 (OOTOYA),Japanese Restaurant,51fd77be498e883bf20fcca8,Moderate,8.2,764,572
+Midtown,Dig Inn,American Restaurant,4aeb2e64f964a52059bf21e3,Moderate,8.4,465,344
+Midtown,Hatsuhana,Japanese Restaurant,4ad67f80f964a5207e0721e3,Moderate,8.7,541,391
+Murray Hill,Kajitsu,Japanese Restaurant,4a99b4f4f964a520f62f20e3,Very Expensive,8.9,244,183
+Murray Hill,Sushi Ryusei,Sushi Restaurant,5b88b22f16ef67002ce49afe,Moderate,8.7,29,24
+Murray Hill,Omar's Mediterranean Cuisine,Mediterranean Restaurant,5890c970cc5b6a43d6bf01a0,Moderate,8.7,76,62
+Murray Hill,Café China,Chinese Restaurant,4e3484038877beb5e9a22a0b,Moderate,8.8,1373,1046
+Murray Hill,Zuma New York,Japanese Restaurant,540dc46d498e86f0e5059dd2,Very Expensive,8.3,604,454
+Murray Hill,Tartinery,French Restaurant,5ae37b1b62845c0024994009,Expensive,7.8,18,13
+Murray Hill,Lan Larb Midtown,Thai Restaurant,5424bb1b498ecea0c85b6b43,Moderate,8.5,106,79
+Murray Hill,The Capital Grille,American Restaurant,49e79ffdf964a520e3641fe3,Expensive,8.3,408,286
+Murray Hill,Xi'an Famous Foods,Chinese Restaurant,54b80565498e6d4f36168cd8,Cheap,8.7,618,491
+Murray Hill,Baby Bo's Cantina,Mexican Restaurant,3fd66200f964a52049e71ee3,Moderate,8.1,328,183
+Murray Hill,Ai Fiori,Italian Restaurant,4ccc32e997d0224bff415eb8,Very Expensive,8.6,661,457
+Murray Hill,Café Zaiya,Japanese Restaurant,48c50c4bf964a520dc511fe3,Cheap,8.1,569,383
+Chelsea,Buddakan,Chinese Restaurant,44e9b421f964a520a5371fe3,Expensive,8.8,2057,1488
+Chelsea,The Meatball Shop,Italian Restaurant,511d6006e4b0a486ec088c89,Moderate,8.7,1309,1004
+Chelsea,Sushinao,Japanese Restaurant,5ce08f31e1f228002b7d7903,Moderate,8.8,16,9
+Chelsea,Cookshop,American Restaurant,43850280f964a520fd2a1fe3,Expensive,8.8,2185,1554
+Chelsea,Cull & Pistol,Seafood Restaurant,5176c5f9e4b0e835576678f3,Moderate,8.8,545,405
+Chelsea,Los Mariscos,Seafood Restaurant,57e9590a498e2d323e20c667,Cheap,9.2,526,410
+Chelsea,Westville Chelsea,American Restaurant,4c0c5587340720a166978993,Moderate,9,1450,1100
+Chelsea,Foragers Table,American Restaurant,4f88b466e4b03a0f24c70202,Expensive,8.6,532,388
+Chelsea,Del Posto,Italian Restaurant,4533d338f964a5208f3b1fe3,Very Expensive,8.5,892,655
+Chelsea,Ushiwakamaru,Sushi Restaurant,55d79f5e498e863604c83230,Moderate,8.1,134,103
+Chelsea,Fig & Olive,Mediterranean Restaurant,45b24bbef964a520a5411fe3,Expensive,8.3,1034,731
+Greenwich Village,Carbone,Italian Restaurant,504b2a9ee4b006c435a465d3,Very Expensive,9.2,922,703
+Greenwich Village,Coco Pazzo Kitchen & Restaurant,Italian Restaurant,5ab53749446ea6289e41b0e6,Moderate,8.9,69,57
+Greenwich Village,Tomoe Sushi,Sushi Restaurant,3fd66200f964a5200eea1ee3,Moderate,8.8,772,544
+Greenwich Village,Mermaid Oyster Bar,Seafood Restaurant,4af83ea9f964a5209a0b22e3,Expensive,9.2,960,714
+Greenwich Village,Dante NYC,Italian Restaurant,556f4ef2498ee60139b28c72,Moderate,9.2,637,492
+Greenwich Village,Chow House,Chinese Restaurant,5a20df1742d8c2528e74211f,Moderate,8.8,83,69
+Greenwich Village,Song' e Napule Pizzeria,Italian Restaurant,54c3198d498eb66c4d02fd9e,Moderate,8.2,83,57
+Greenwich Village,San Carlo Osteria Piemonte,Italian Restaurant,56d92e05498e6c54b6325b19,Expensive,9,153,104
+Greenwich Village,Junzi Kitchen,Chinese Restaurant,5b36566f666116002c6b265e,Cheap,8.1,74,55
+Greenwich Village,SUGARFISH by sushi nozawa,Sushi Restaurant,5c6c6715f709c1002cd49290,Moderate,9.2,91,82
+Greenwich Village,Little Prince,French Restaurant,515f81d0e4b05d6decaaed19,Moderate,8,572,406
+Greenwich Village,Il Mulino New York,Italian Restaurant,49ff2b51f964a520e86f1fe3,Very Expensive,8.7,197,132
+Greenwich Village,Minetta Tavern,American Restaurant,44b78a37f964a52070351fe3,Expensive,8.8,1988,1414
+Greenwich Village,Cotenna,Italian Restaurant,543075b3498e283e38ad9dec,Moderate,9.2,1155,883
+Greenwich Village,La Lanterna di Vittorio,Italian Restaurant,3fd66200f964a520cee91ee3,Moderate,8.5,768,550
+Greenwich Village,Top Thai,Thai Restaurant,59c933d32d2fd975644a009f,Moderate,7.9,61,46
+East Village,Kura,Japanese Restaurant,510c85e7e4b0056826b88297,Very Expensive,9.2,263,212
+East Village,Westville East,American Restaurant,4758483af964a520cc4c1fe3,Moderate,9,1152,837
+East Village,Zaragoza Mexican Deli-Grocery,Mexican Restaurant,49e80026f964a52037651fe3,Cheap,8.7,295,188
+East Village,Hearth,Italian Restaurant,40f1d480f964a520680a1fe3,Expensive,8.6,832,578
+East Village,Taqueria St. Marks,Mexican Restaurant,54f90055498e6ce6a801f8f3,Cheap,8.8,436,338
+East Village,Málà Project,Chinese Restaurant,5647ee82498e8bfc0ddef53d,Moderate,8.7,550,436
+East Village,Luke's Lobster,Seafood Restaurant,4abce679f964a5209d8720e3,Moderate,8.8,776,518
+East Village,Suki Curry,Japanese Restaurant,5b3805910dd31f002409405a,Moderate,9.3,61,52
+East Village,Cagen,Japanese Restaurant,51e99f58498e520a7886c631,Very Expensive,7.9,110,71
+East Village,Tacos Cuautla Morelos,Mexican Restaurant,5209469f11d2d4f85e5b7427,Cheap,7.8,139,90
+East Village,Empellón Al Pastor,Mexican Restaurant,544153df498e8f7dae118d8e,Cheap,7.8,540,354
+East Village,Somtum Der,Thai Restaurant,51f1882c498eae046a840d15,Moderate,8.5,871,623
+East Village,Upstate Craft Beer and Oyster Bar,Seafood Restaurant,4e41f0822271a90466a0e967,Expensive,9.1,837,627
+Lower East Side,Kings County Imperial,Chinese Restaurant,5b380f649deb7d00399fdf9d,Cheap,9.2,89,67
+Lower East Side,Zyara Restaurant & Cafe,Mediterranean Restaurant,5af8effcad910e002c271520,Moderate,8.7,38,28
+Lower East Side,Windmill,French Restaurant,5b63aefffe63bd0039d0c297,Expensive,8.7,20,16
+Lower East Side,Speedy Romeo LES,Italian Restaurant,56cf3493cd106ae44d0c76a8,Moderate,8.5,395,302
+Lower East Side,Yopparai,Japanese Restaurant,4f4442c9e4b0f94a357a383b,Moderate,8.7,232,170
+Lower East Side,3 Times,Chinese Restaurant,5d9b6bef309f4b000893454d,Cheap,7.7,8,6
+Lower East Side,Clancey,American Restaurant,5849724aea29b85730fe660d,Moderate,6.9,68,42
+Lower East Side,Wa Lung Kitchen,Chinese Restaurant,4b92cc07f964a520a21c34e3,Cheap,6,10,4
+Tribeca,Locanda Verde,Italian Restaurant,4a149749f964a52055781fe3,Expensive,8.9,1931,1438
+Tribeca,Sushi Azabu,Sushi Restaurant,4aad744bf964a520606020e3,Expensive,8.7,198,133
+Tribeca,Smith & Mills,American Restaurant,46797032f964a520f7471fe3,Moderate,8.2,499,353
+Tribeca,Bubby's,American Restaurant,40f1d480f964a5205b0a1fe3,Moderate,8.4,2024,1425
+Tribeca,China Blue,Chinese Restaurant,5237264111d27e8e90c10357,Expensive,8.5,462,352
+Tribeca,Grand Banks,Seafood Restaurant,53b2aa81498e6744c355ec9f,Expensive,9.1,776,603
+Tribeca,Pepolino,Italian Restaurant,4ad68c35f964a520c20721e3,Expensive,8.5,278,164
+Tribeca,Frenchette,French Restaurant,5abc33ccad17896edaca3d61,Expensive,8.4,229,179
+Tribeca,Scalini Fedeli,Italian Restaurant,437bc800f964a520a52a1fe3,Very Expensive,8.5,89,61
+Tribeca,Maman,French Restaurant,566c9c87498ef09a2940e605,Moderate,8.2,385,293
+Tribeca,Gigino Trattoria,Italian Restaurant,3fd66200f964a520aae61ee3,Expensive,7.9,173,108
+Tribeca,Tutto Il Giorno Tribeca,Italian Restaurant,52375dee11d23f06740c8f3e,Moderate,7.6,129,92
+Little Italy,Le Coucou,French Restaurant,57583641498e90001a32e13e,Expensive,9.2,498,392
+Little Italy,Thai Diner,Thai Restaurant,5e46e2ec5791a10008c55728,Moderate,8.6,18,15
+Little Italy,19 Cleveland,Mediterranean Restaurant,5b9ef2d9f8cbd4002c8c7c1e,Moderate,9.1,92,55
+Little Italy,House Special 甘來飯店,Chinese Restaurant,59ad625a2619ee5cdded881f,Cheap,8.2,36,22
+Little Italy,CAVA,Mediterranean Restaurant,59e0ee84f0ca95526b7fce9f,Moderate,9.2,125,107
+Little Italy,La Esquina,Mexican Restaurant,431e2d80f964a52079271fe3,Expensive,8.5,2806,1991
+Little Italy,Uncle Boons,Thai Restaurant,516863b1011ca6684e37a88f,Expensive,9.1,1379,1015
+Little Italy,Osteria Morini,Italian Restaurant,4c7d4f1b8da18cfa1afc9ece,Expensive,8.7,1072,747
+Little Italy,Jack's Wife Freda,Mediterranean Restaurant,4f0f47650cd695a0e54cb438,Moderate,8.5,2415,1720
+Little Italy,Ed's Lobster Bar,Seafood Restaurant,49cf9efbf964a520b05a1fe3,Expensive,8.3,637,397
+Little Italy,The Boil,Seafood Restaurant,51033bf5e4b0f8687e44c0e7,Expensive,8.9,629,464
+Little Italy,Rubirosa Ristorante,Italian Restaurant,4cc6222106c25481d7a4a047,Moderate,9.3,3313,2491
+Little Italy,Cocoron,Japanese Restaurant,4cf9655334c1a09374cb390e,Moderate,8.7,715,533
+Little Italy,Wayla,Thai Restaurant,5cc4e9d0c876c8002c3010cb,Moderate,9.2,147,126
+Little Italy,Wah Fung Number 1 Fast Food 華豐快飯店,Chinese Restaurant,4a96bf8ff964a520ce2620e3,Cheap,8.2,281,192
+Little Italy,Parm,Italian Restaurant,4d9f8d97a428a1cdd92acb04,Moderate,8.8,1618,1129
+Little Italy,Chikarashi,Japanese Restaurant,5732631f498e7f716eb79f11,Expensive,7.6,285,209
+Little Italy,Antique Garage,Mediterranean Restaurant,4a05ea5cf964a5209b721fe3,Expensive,8.3,530,377
+Little Italy,Spicy Village,Chinese Restaurant,4db3374590a0843f295fb69b,Cheap,8.2,690,500
+Little Italy,Xi'an Famous Foods,Chinese Restaurant,5894c9a15e56b417cf79e553,Cheap,8.5,138,104
+Little Italy,Café Gitane,French Restaurant,4baabd4cf964a520c6833ae3,Moderate,8.6,1081,755
+Little Italy,Sun's Organic Tea Shop,Chinese Restaurant,4c7ab2ac2d3ba143bb1d92d0,Cheap,8.1,50,32
+Soho,Antique Garage,Mediterranean Restaurant,4a05ea5cf964a5209b721fe3,Expensive,8.3,530,377
+Soho,Osteria Morini,Italian Restaurant,4c7d4f1b8da18cfa1afc9ece,Expensive,8.7,1072,747
+Soho,19 Cleveland,Mediterranean Restaurant,5b9ef2d9f8cbd4002c8c7c1e,Moderate,9.1,92,55
+Soho,Jack's Wife Freda,Mediterranean Restaurant,4f0f47650cd695a0e54cb438,Moderate,8.5,2415,1720
+Soho,La Esquina,Mexican Restaurant,431e2d80f964a52079271fe3,Expensive,8.5,2806,1991
+Soho,Le Coucou,French Restaurant,57583641498e90001a32e13e,Expensive,9.2,498,392
+Soho,CAVA,Mediterranean Restaurant,59e0ee84f0ca95526b7fce9f,Moderate,9.2,125,107
+Soho,Ed's Lobster Bar,Seafood Restaurant,49cf9efbf964a520b05a1fe3,Expensive,8.3,637,397
+Soho,San Carlo Osteria Piemonte,Italian Restaurant,56d92e05498e6c54b6325b19,Expensive,9,153,104
+Soho,Rubirosa Ristorante,Italian Restaurant,4cc6222106c25481d7a4a047,Moderate,9.3,3313,2491
+Soho,SUGARFISH by sushi nozawa,Sushi Restaurant,5c6c6715f709c1002cd49290,Moderate,9.2,91,82
+Soho,Parm,Italian Restaurant,4d9f8d97a428a1cdd92acb04,Moderate,8.8,1618,1129
+Soho,Coco Pazzo Kitchen & Restaurant,Italian Restaurant,5ab53749446ea6289e41b0e6,Moderate,8.9,69,57
+Soho,La Mercerie,French Restaurant,5a382327dee7707dd4842ab8,Expensive,7.6,202,152
+Soho,Thai Diner,Thai Restaurant,5e46e2ec5791a10008c55728,Moderate,8.6,18,15
+Soho,Cafe Altro Paradiso,Italian Restaurant,566ccc9e498e30e477702118,Moderate,8.4,278,208
+Soho,Au Cheval,American Restaurant,5c71d51689b06a002c6de87d,Moderate,8,236,175
+West Village,Mémé Mediterranean,Mediterranean Restaurant,4c91772e57e5b60cfa25611c,Expensive,9.2,439,342
+West Village,Westville West,American Restaurant,3fd66200f964a52040e71ee3,Moderate,8.9,634,446
+West Village,Buvette,French Restaurant,4d0bf7e3f29c236ac675bfe7,Expensive,9.2,2374,1851
+West Village,Via Carota,Italian Restaurant,543c7c63498e0a3393da47a2,Expensive,9,770,606
+West Village,The Little Owl,American Restaurant,45379ccef964a520c13b1fe3,Expensive,8.3,865,594
+West Village,Mary's Fish Camp,Seafood Restaurant,3fd66200f964a52048e31ee3,Moderate,8.4,417,271
+West Village,Extra Virgin,Italian Restaurant,41478600f964a520b91c1fe3,Expensive,8.4,993,677
+West Village,Malatesta Trattoria,Italian Restaurant,4a552b26f964a520c4b31fe3,Expensive,8.4,661,440
+West Village,Sant Ambroeus West Village,Italian Restaurant,449e952ef964a520bc341fe3,Very Expensive,8.3,315,217
+West Village,Takashi,Japanese Restaurant,4bc10965abf49521296bc093,Expensive,8.9,807,612
+West Village,Sushi Nakazawa,Sushi Restaurant,52155e9d11d2c369404df14e,Very Expensive,8.8,864,654
+West Village,Gaetana's Cucina Italiana,Italian Restaurant,451d254df964a5208b3a1fe3,Moderate,7.8,110,51
+West Village,Malaparte,Italian Restaurant,4d327cc72e56236a18991db4,Moderate,8.3,370,270
+West Village,Tartine,French Restaurant,3fd66200f964a52006ea1ee3,Moderate,8.2,629,399
+West Village,Jeffrey's Grocery,American Restaurant,4ca21faa8afca09388192116,Expensive,9.1,906,685
+West Village,The Warren,American Restaurant,56dcacb9498e12e3c47eb759,Moderate,7.5,84,54
+West Village,Pearl Oyster Bar,Seafood Restaurant,3fd66200f964a52093e71ee3,Expensive,9.2,500,359
+West Village,Leroy House,American Restaurant,5aff8178a0215b002cac6bb9,Moderate,8.4,41,31
+Manhattan Valley,Osteria 106,Italian Restaurant,5962a53dc824ae6362e9e625,Moderate,8.3,50,38
+Manhattan Valley,Chipotle Mexican Grill,Mexican Restaurant,56103b3a498e3a90fe0ac851,Cheap,7.8,30,24
+Manhattan Valley,Xi'an Famous Foods,Chinese Restaurant,529e3657498efb17e9c800b7,Cheap,8.4,400,295
+Manhattan Valley,Thai Market,Thai Restaurant,49dfbfabf964a52009611fe3,Moderate,8.2,558,393
+Manhattan Valley,Taqueria Y Fonda,Mexican Restaurant,4a32f3cef964a520d19a1fe3,Cheap,8.2,197,124
+Manhattan Valley,Schatzie Prime Meat,American Restaurant,5531c791498e63ef341b8348,Moderate,7.9,14,10
+Manhattan Valley,Yakitori Sun-Chan,Japanese Restaurant,4ae63b5bf964a520d7a521e3,Moderate,7.8,131,87
+Morningside Heights,Community Food & Juice,American Restaurant,49c80121f964a520e1571fe3,Expensive,8.2,607,399
+Morningside Heights,Dig Inn,American Restaurant,52ebf72a498ed778f4b60252,Moderate,8.3,258,186
+Morningside Heights,Dos Toros Taqueria,Mexican Restaurant,5e4588b27c99ac0008a9437b,Cheap,7.6,0,0
+Morningside Heights,Shaking Crab,Seafood Restaurant,59179ec22be42556989daddd,Expensive,8.2,23,15
+Morningside Heights,Friedman's,American Restaurant,55a7dfa0498e279990d7498b,Moderate,7.7,187,136
+Morningside Heights,Elysian Fields Cafe,Mediterranean Restaurant,5c4e5fba0802d4002ce0c143,Moderate,6.6,10,7
+Gramercy,Taqueria Gramercy,Mexican Restaurant,5b6e2e356adbf5002c7bc64c,Cheap,8.8,57,45
+Gramercy,Bluebell Cafe,American Restaurant,4ba01057f964a520de5637e3,Moderate,7.8,399,238
+Gramercy,Hane Sushi,Sushi Restaurant,49ecf7f1f964a520ba671fe3,Moderate,8.1,231,152
+Gramercy,Maialino,Italian Restaurant,4afb2990f964a520a91b22e3,Expensive,8.8,1955,1452
+Gramercy,Lamarca Pasta,Italian Restaurant,4abaa8bbf964a520518220e3,Moderate,7.7,184,88
+Gramercy,Simon & The Whale,American Restaurant,5a5ec2e4bb8d3614bb5d49f5,Moderate,8.3,228,164
+Gramercy,Proong Noodle Bar,Thai Restaurant,5a89c0ca9e0d5409e0a99f49,Moderate,7.4,25,15
+Gramercy,Patrizia's of Manhattan,Italian Restaurant,551f21cd498e341e6a5e1276,Expensive,7.8,136,92
+Gramercy,Follia,Italian Restaurant,57c772d1498e6cb2f6531cdf,Moderate,8.3,149,106
+Gramercy,Mexico Lindo NYC,Mexican Restaurant,4a4505e1f964a520aca71fe3,Moderate,7.4,175,104
+Gramercy,Little Basil Thai Cuisine,Thai Restaurant,3fd66200f964a520d8e91ee3,Moderate,7.5,179,103
+Gramercy,Chipotle Mexican Grill,Mexican Restaurant,5648cc90498e7aac04fb1a60,Cheap,7.2,31,22
+Battery Park City,Chipotle Mexican Grill,Mexican Restaurant,554ce3f0498e5e644ef0ab8a,Cheap,7.6,57,39
+Battery Park City,Ningbo Cafe,Chinese Restaurant,5742850f498e0114292c6a52,Cheap,7.3,34,19
+Battery Park City,Atrio New York,Mediterranean Restaurant,4f0c7c106d866af8d40ae337,Expensive,7.1,146,89
+Financial District,The Capital Grille,American Restaurant,4aa8259ff964a5209b4f20e3,Expensive,8.4,347,250
+Financial District,Luke's Lobster,Seafood Restaurant,4db739d841592dd82ee2b3dd,Moderate,9,577,422
+Financial District,CAVA,Mediterranean Restaurant,5cf62af9cb3fd2002c8e8a4c,Moderate,8,14,9
+Financial District,Dig Inn,American Restaurant,4a7ef289f964a52058f21fe3,Moderate,8.6,483,354
+Financial District,La Parisienne,French Restaurant,5a47a5e4e679bc7b226989ca,Expensive,8.1,76,51
+Financial District,Giardino D'oro,Italian Restaurant,4bb54fe02f70c9b6c6188430,Very Expensive,8,56,35
+Financial District,Blue Ribbon Federal Grill,American Restaurant,5898b973fc73d40bed68acb6,Moderate,7.6,84,60
+Financial District,Maestro Pasta,Italian Restaurant,5d4861420372ce0007e23375,Moderate,8.2,12,5
+Financial District,Dig Inn,American Restaurant,53e929d5498e60742357fb87,Moderate,7.9,187,147
+Financial District,Kome Waza,Japanese Restaurant,585c15782b04f80cdd0e9711,Moderate,8.7,123,93
+Financial District,Nobu Downtown,Japanese Restaurant,4b60c708f964a520d0f829e3,Very Expensive,8.1,372,270
+Financial District,Westville Wall Street,American Restaurant,58fa6663c530932d7a53ec1e,Moderate,8.3,174,132
+Financial District,Mad Dog & Beans Mexican Cantina,Mexican Restaurant,4a15a2e8f964a520a9781fe3,Moderate,7.5,686,395
+Carnegie Hill,Lex Restaurant,Italian Restaurant,4aad53a2f964a520b75f20e3,Expensive,8.6,27,17
+Carnegie Hill,Sfoglia,Italian Restaurant,4bb4d86886a8d13a83f8de7f,Expensive,8.4,141,90
+Carnegie Hill,Dig Inn,American Restaurant,58013f59d67c96d4d3d065a5,Moderate,9.2,232,189
+Carnegie Hill,Table d'Hote,French Restaurant,4b9d2218f964a5207e9236e3,Moderate,8.2,67,45
+Carnegie Hill,Ooki Sushi,Sushi Restaurant,4bb90fe01261d13a6547e998,Moderate,7.8,99,52
+Carnegie Hill,Cafe D'Alsace,French Restaurant,467ffefcf964a52019481fe3,Moderate,8.8,728,521
+Carnegie Hill,Ichiro,Japanese Restaurant,4b3fdfc8f964a5200ab125e3,Moderate,8.4,170,104
+Carnegie Hill,Chochin,Japanese Restaurant,56ec9e33498e7b9aa5bfe5df,Moderate,8.2,28,21
+Carnegie Hill,Mole Restaurant,Mexican Restaurant,4f63c8e3e4b09b9cd92afeae,Moderate,7.7,246,141
+Carnegie Hill,Kobeyaki,Japanese Restaurant,542c92dd498e2e6afd3439a7,Cheap,8,115,72
+Carnegie Hill,THAIs New York,Thai Restaurant,562c1e35498e1f96250b44da,Moderate,7.7,43,31
+Noho,Le French Diner,French Restaurant,5303f306498ebbca8f7e1158,Moderate,9.1,86,68
+Noho,Lil' Frankie's,Italian Restaurant,3fd66200f964a520d0e41ee3,Moderate,8.8,1217,892
+Noho,Prune,American Restaurant,3fd66200f964a52055e41ee3,Moderate,8.7,945,650
+Noho,Gaia Italian Cafe,Italian Restaurant,4d49d00ef53c8cfa78561c47,Cheap,9.1,395,266
+Noho,El Diablito Taqueria,Mexican Restaurant,518ae551498e2f46f121c613,Cheap,8.2,198,140
+Noho,Supper,Italian Restaurant,3fd66200f964a5209de41ee3,Moderate,8.5,1125,774
+Noho,Downtown Bakery,Mexican Restaurant,4bb270a8a32876b0d39900fe,Cheap,8.4,240,163
+Noho,Upstate Craft Beer and Oyster Bar,Seafood Restaurant,4e41f0822271a90466a0e967,Expensive,9.1,837,627
+Noho,Sushi By M,Sushi Restaurant,5c2d4603464d6500395e552d,Moderate,8.7,76,60
+Noho,Bar Primi,Italian Restaurant,53726183498e6a101ea7fd06,Moderate,8.5,883,628
+Noho,Frank Restaurant,Italian Restaurant,3fd66200f964a5204de41ee3,Moderate,8.6,603,422
+Noho,Secchu Yokota,Japanese Restaurant,57a3bda338fa6612ad9c17f2,Moderate,9.2,46,38
+Noho,Fish Cheeks,Thai Restaurant,57c169e3498e784947e307aa,Expensive,9.1,559,438
+Noho,Somtum Der,Thai Restaurant,51f1882c498eae046a840d15,Moderate,8.5,871,623
+Noho,Essex Taqueria,Mexican Restaurant,536da20a498e8a08809d145a,Cheap,8.4,174,125
+Noho,Suki Curry,Japanese Restaurant,5b3805910dd31f002409405a,Moderate,9.3,61,52
+Noho,Bohemian,Japanese Restaurant,4a02e66ff964a52073711fe3,Expensive,9,543,383
+Noho,Izakaya,Japanese Restaurant,5452c0ad498ef95447ead60c,Moderate,8.3,117,86
+Noho,Luke's Lobster,Seafood Restaurant,4abce679f964a5209d8720e3,Moderate,8.8,776,518
+Noho,Fonda,Mexican Restaurant,4f402ae1e4b0e5bc120e3876,Moderate,8.4,677,443
+Civic Center,Takahachi,Sushi Restaurant,4a8f2f39f964a520471420e3,Moderate,8.9,423,311
+Civic Center,Racines,French Restaurant,534c9d7b498e1bdd443a40e1,Expensive,8.2,166,120
+Civic Center,The Odeon,French Restaurant,3fd66200f964a52083e61ee3,Moderate,8.6,998,713
+Civic Center,Tiny's and the Bar Upstairs,American Restaurant,4dadcb124df0522cc5622202,Moderate,8.5,739,537
+Civic Center,Little Park,American Restaurant,545c0436498e798e22ce4b2a,Expensive,8.4,624,467
+Civic Center,Sushi of Gari Tribeca,Sushi Restaurant,50597c5ce4b05ea41644ac74,Moderate,8.1,179,135
+Civic Center,Scalini Fedeli,Italian Restaurant,437bc800f964a520a52a1fe3,Very Expensive,8.5,89,61
+Civic Center,Shōji,Sushi Restaurant,59df8c30947c05319e542778,Moderate,7.7,28,19
+Civic Center,Augustine,French Restaurant,58191674ded8f8626ed70af0,Very Expensive,8.8,302,239
+Civic Center,Maman,French Restaurant,566c9c87498ef09a2940e605,Moderate,8.2,385,293
+Civic Center,Frenchette,French Restaurant,5abc33ccad17896edaca3d61,Expensive,8.4,229,179
+Civic Center,Au Cheval,American Restaurant,5c71d51689b06a002c6de87d,Moderate,8,236,175
+Civic Center,Temple Court,American Restaurant,57dc7ea2498e2a830309c81c,Moderate,7.6,170,120
+Civic Center,Juku,Japanese Restaurant,5a0c6134ad910e792560b021,Moderate,7.8,75,51
+Midtown South,L'Amico,Italian Restaurant,55e63b89498e3ed62f75cff3,Expensive,8.5,523,390
+Midtown South,Abiko Curry,Japanese Restaurant,57ab615d498eef084faa348b,Moderate,8.3,174,132
+Midtown South,KazuNori: The Original Hand Roll Bar,Japanese Restaurant,58b8ed467220e661ddf34104,Expensive,9,671,519
+Midtown South,The NoMad Restaurant,American Restaurant,4f6e6af3e4b0463c94b07375,Very Expensive,8.9,1485,1101
+Midtown South,Chikarashi,Japanese Restaurant,59bfea3358aa7f10d5eb9b33,Moderate,8.6,85,66
+Midtown South,Fields Good Chicken,American Restaurant,5827a52451856d5035935a62,Moderate,8.5,122,97
+Midtown South,Nonono,Japanese Restaurant,5ad925da2f97ec3e4b17eba2,Moderate,8.3,192,148
+Midtown South,Cava,Mediterranean Restaurant,5bb4fd424c9be6002cad9b1b,Moderate,7.8,29,24
+Sutton Place,Rosa Mexicano,Mexican Restaurant,42a4e380f964a520f7241fe3,Expensive,8.6,303,210
+Sutton Place,Felidia,Italian Restaurant,4b566000f964a520c00d28e3,Very Expensive,8.5,247,184
+Sutton Place,Luscious Thai,Thai Restaurant,4b19ae35f964a520d9e123e3,Moderate,8,55,27
+Sutton Place,Roy's Fish and Sushi Market,Seafood Restaurant,4dc5d444fa76d685cdebe3f4,Expensive,8.6,24,19
+Sutton Place,amata,Italian Restaurant,54b1c94a498e09d5326f68fe,Moderate,8.8,39,30
+Sutton Place,Scalinatella,Italian Restaurant,4af610e2f964a520bf0022e3,Moderate,8.2,138,104
+Sutton Place,Sutton Inn,American Restaurant,5483a68f498e11594c8f9d5a,Very Expensive,8.5,41,29
+Sutton Place,Sushi Seki UES,Sushi Restaurant,4ac28e92f964a520b79920e3,Very Expensive,7.8,220,134
+Sutton Place,Tony's Di Napoli,Italian Restaurant,4f90a618e4b0ead1972c3da6,Expensive,8.4,361,251
+Sutton Place,Oaxaca Taqueria,Mexican Restaurant,56ca53ffcd101492d324f923,Cheap,6.6,34,19
+Turtle Bay,KaoruMC,Sushi Restaurant,577445a4cd100bd4db96ed96,Moderate,8.3,15,13
+Turtle Bay,Herbs Thai Bistro,Thai Restaurant,548cb1a2498e7cd8fd9f98ce,Moderate,8.1,59,41
+Turtle Bay,Deux Amis,French Restaurant,4a64fda8f964a52023c71fe3,Very Expensive,8.4,78,50
+Turtle Bay,The Smith,American Restaurant,4e73cf3a2271ffa4e63183bd,Expensive,8.7,2091,1575
+Turtle Bay,Pescatore Seafood,Seafood Restaurant,4b60cde0f964a52092fa29e3,Expensive,8.6,20,12
+Turtle Bay,La Pecora Bianca,Italian Restaurant,59dfff99419a9e7fcc5b5fa2,Moderate,8.2,124,94
+Turtle Bay,Aburiya Kinnosuke,Japanese Restaurant,49db8b67f964a520d85e1fe3,Expensive,8.8,375,279
+Turtle Bay,Crave Fishbar,Seafood Restaurant,4fd2e2a8e4b0f961a7719aa4,Expensive,8.1,505,349
+Turtle Bay,Jubilee,French Restaurant,5143a58229a6639d6cfd525c,Moderate,8.5,72,47
+Turtle Bay,Copinette,American Restaurant,5afae2fb88a48b0024cf59a9,Expensive,7.5,22,14
+Turtle Bay,Le Bateau Ivre,French Restaurant,3fd66200f964a5200ae81ee3,Very Expensive,8.3,194,118
+Turtle Bay,Sushi Yasuda,Sushi Restaurant,450972f5f964a5203d391fe3,Very Expensive,8.7,852,599
+Turtle Bay,Gyu-Kaku Japanese BBQ,Japanese Restaurant,48208c8cf964a520894f1fe3,Moderate,8.5,681,479
+Turtle Bay,Sushi You,Sushi Restaurant,4b3c0f0af964a5201d8125e3,Moderate,8,82,54
+Turtle Bay,Luke's Lobster,Seafood Restaurant,53c5b7ad498e0b3a75ca97d0,Expensive,8.3,201,146
+Turtle Bay,Mimi's Italian Restaurant & Piano Bar,Italian Restaurant,4a84b810f964a5206efd1fe3,Expensive,7.7,108,61
+Turtle Bay,Ristorante Grifone,Italian Restaurant,4acfb632f964a52076d520e3,Very Expensive,7.1,29,15
+Turtle Bay,La Villetta,Italian Restaurant,54ff9b3d498e33f73db2d638,Moderate,6.9,30,19
+Tudor City,Pescatore Seafood,Seafood Restaurant,4b60cde0f964a52092fa29e3,Expensive,8.6,20,12
+Tudor City,Sushi Ryusei,Sushi Restaurant,5b88b22f16ef67002ce49afe,Moderate,8.7,29,24
+Tudor City,Tempura Matsui,Japanese Restaurant,559cbaa6498eaa4e8d884811,Expensive,8.2,63,47
+Tudor City,Lan Larb Midtown,Thai Restaurant,5424bb1b498ecea0c85b6b43,Moderate,8.5,106,79
+Tudor City,Montagu's Gusto,American Restaurant,5a022e729411f217c431e972,Moderate,8.2,16,13
+Tudor City,251 Ginza Sushi,Sushi Restaurant,4bba3cf87421a593728fc340,Moderate,8.2,49,30
+Tudor City,Baby Bo's Cantina,Mexican Restaurant,3fd66200f964a52049e71ee3,Moderate,8.1,328,183
+Tudor City,El Parador,Mexican Restaurant,3fd66200f964a5205ee31ee3,Expensive,8,269,159
+Tudor City,Maison Thai,Thai Restaurant,56dce8ef498e714be31c4845,Moderate,8,58,38
+Tudor City,Chicken Provence,French Restaurant,533d99c8498e4ed0ad9db108,Moderate,8,89,67
+Tudor City,Docks Oyster Bar,Seafood Restaurant,3fd66200f964a5209ce91ee3,Expensive,7.5,396,245
+Tudor City,Chipotle Mexican Grill,Mexican Restaurant,5065bdbee4b0a44a76ae8083,Moderate,7.2,136,91
+Tudor City,El Rio Grande,Mexican Restaurant,3fd66200f964a5204de71ee3,Moderate,6.9,553,324
+Flatiron,HALL,Japanese Restaurant,5bd7a5561c675b0039be9acc,Moderate,9.1,65,47
+Flatiron,Sugarfish,Japanese Restaurant,581a10901df6b32e66ec3a07,Moderate,9,586,453
+Flatiron,Sushi By Bou,Sushi Restaurant,5a0e475b018cbb6a2196479e,Moderate,9.4,88,78
+Flatiron,Thai Villa,Thai Restaurant,57e83df3498eebbe238cb36f,Expensive,8.5,526,419
+Flatiron,Rezdôra,Italian Restaurant,5cc3adaa838e59002cb4629d,Moderate,8.4,93,68
+Flatiron,Dig Inn,American Restaurant,5536759a498e56e343077057,Cheap,9.1,481,387
+Flatiron,Yakiniku Futago,Japanese Restaurant,55805bb5498e8356d675aa22,Moderate,8.4,202,157
+Flatiron,La Pizza & La Pasta,Italian Restaurant,53370455498e18d7e6607a1d,Moderate,8.6,281,200
+Flatiron,da Umberto,Italian Restaurant,4a8c84daf964a520530e20e3,Very Expensive,8.6,128,88
+Flatiron,The Hummus & Pita Co,Mediterranean Restaurant,4f331c5ce4b05255bdf07d27,Cheap,8.3,692,481
+Flatiron,CAVA,Mediterranean Restaurant,59573747123a195de61b71b3,Moderate,9.2,164,139
+Flatiron,Maialino,Italian Restaurant,4afb2990f964a520a91b22e3,Expensive,8.8,1955,1452
+Flatiron,Hu Kitchen,American Restaurant,5064dcb9e4b0916c4c6106ae,Moderate,8.1,1318,935
+Hudson Yards,Friedman's,American Restaurant,54ddf9a1498e766ab85781f4,Moderate,8.5,443,328
+Hudson Yards,Legacy Records,American Restaurant,59f3554f002f4c0655d65bab,Moderate,7.8,151,105
+Hudson Yards,Chef's Table At Brooklyn Fare,American Restaurant,5854cfc203cf255eb3b9c8cb,Very Expensive,8.5,81,64
+Hudson Yards,Sergimmo Salumeria,Italian Restaurant,4dcae1b18877502200c95822,Moderate,8.6,457,327
+Hudson Yards,Tavola,Italian Restaurant,505b7061e4b0571999fb3da8,Moderate,8.2,367,258
+Hudson Yards,Via Trenta,Italian Restaurant,57e55e46498e04b0dc14dbb0,Moderate,8,28,21
